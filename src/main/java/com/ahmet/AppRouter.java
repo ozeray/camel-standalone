@@ -2,8 +2,6 @@ package com.ahmet;
 
 import org.apache.camel.builder.RouteBuilder;
 
-import java.util.Date;
-
 public class AppRouter extends RouteBuilder {
 
     @Override
